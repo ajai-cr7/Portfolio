@@ -119,7 +119,7 @@ retreival !
         </br>
         <br>
         </br>
-         <p><b><h3 className="project-wrapper__text-title">{'Blog Application using MERN stack !'}</h3></b></p>
+         <p><b><h3 className="project-wrapper__text-title">{'Blog Application using REACT!'}</h3></b></p>
         
         <p>In this project i explored MERN stack and used express.js to run server and build a complete full stack 
           blog application ! 
